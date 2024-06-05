@@ -1,0 +1,2 @@
+# Qtele.py
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e166c3afa1af424db50e73be51155f1b)](https://app.codacy.com/gh/Stephenvg1/Qtele.py?utm_source=github.com&utm_medium=referral&utm_content=Stephenvg1/Qtele.py&utm_campaign=Badge_Grade)
