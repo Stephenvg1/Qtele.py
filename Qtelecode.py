@@ -94,4 +94,4 @@ print("Server's decrypted message:", server_decrypted_message)
 if alice_decrypted_message == bob_decrypted_message == server_decrypted_message == decrypted_message:
     print("The message is secure and has been confirmed by Alice, Bob, and the server.")
 else:
-    print("The message has been tampered with or corrupted during transmission."
+    print("The message has been tampered with or corrupted during transmission.")
